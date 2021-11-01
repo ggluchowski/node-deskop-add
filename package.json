@@ -1,0 +1,19 @@
+{
+  "name": "deskop-add",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ggluchowski/node-deskop-add.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ggluchowski/node-deskop-add/issues"
+  },
+  "homepage": "https://github.com/ggluchowski/node-deskop-add#readme"
+}
